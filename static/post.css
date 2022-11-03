@@ -1,0 +1,58 @@
+body {
+  max-width: 700px;
+  margin: 10px auto 70px;
+  padding: 25px;
+}
+
+article p,
+li {
+  text-align: justify;
+  line-height: 1.6;
+}
+
+article p {
+  margin: 1.5em 0;
+}
+
+li {
+  margin: 0.8em 0;
+}
+
+h1 {
+  font-size: 3em;
+  text-align: center;
+  margin-top: 1em;
+}
+
+h2 {
+  margin-top: 2em;
+  font-size: 1.4em;
+}
+
+.undertitle {
+  font-size: 0.8em;
+  color: #aaa;
+  text-align: center;
+  margin-bottom: 4em;
+}
+
+.home-link {
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  border-radius: 3px;
+}
+
+ul {
+  list-style-type: disc;
+  padding-left: 2em;
+}
+
+figcaption {
+  text-align: center;
+  color: #aaa;
+  margin-top: 0.5em;
+  font-size: 0.8em;
+}
